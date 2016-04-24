@@ -25,3 +25,15 @@ $ couchapp push mydb
 2016-04-24 12:51:15 [INFO] Visit your CouchApp here:
 http://127.0.0.1:5984/mydb/_design/couchtacty/index.html
 ```
+
+### Dependencies
+```bash
+# install couchdb from repositories (or any other source)
+$ sudo dnf install couchdb
+
+# start couchdb
+$ sudo service couchdb start
+
+# install couchapp cli helper
+pip install couchapp
+```
