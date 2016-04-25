@@ -1,6 +1,9 @@
 # pa195-couchdb-demo
 Demo examples for CouchDB presentation
 
+## presentation slides
+
+http://jludvice.github.io/pa195-couchdb-demo/
 
 ## ldap2json
 *Simple proxy that turns HTTP GET requests into LDAP queries and
